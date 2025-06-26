@@ -1,5 +1,10 @@
 # Ben Samuelson
 
+- 👋 Hi, I’m @samuelson-ben
+- ⚡ Fun fact: My code is crap but never change your running system. As ugly as it is, it works!
+
+<br>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=samuelson-ben&show_icons=true&theme=dark"
@@ -16,9 +21,6 @@
     alt="Ben's GitHub stats"
   />
 </picture>
-
-- 👋 Hi, I’m @samuelson-ben
-- ⚡ Fun fact: My code is crap but never change your running system. As ugly as it is, it works!
 
 <picture>
   <source
