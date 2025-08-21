@@ -26,15 +26,15 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelson-ben&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=samuelson-ben&theme=dark"
     media="(prefers-color-scheme: dark)"
     alt="Ben's top langs"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelson-ben"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=samuelson-ben"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     alt="Ben's top langs"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelson-ben"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=samuelson-ben"
   alt="Ben's top langs"/>
 </picture>
